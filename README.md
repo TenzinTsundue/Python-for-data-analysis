@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=B42n3Pc-N2A
 - Prescriptive Analysis<br>
 <br>
 #### Data Analysis consists of
+
 - Data Requirement Gathering, 
 - Data Collection, 
 - Data Cleaning, 
